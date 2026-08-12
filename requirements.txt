@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+pytest
+pytest-cov
+httpx2
+python-json-logger>=2.0.7
+pydantic-settings
+prometheus-client
+ruff
